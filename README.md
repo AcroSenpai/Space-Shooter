@@ -17,7 +17,7 @@ Al matar al boss dropeara un power-up que puede ser una mejora de bala, una mejo
 
 Al darle a la "P" ser abre el menu de pausa.
 
-![Preview](https://github.com/AcroSenpai/Space-Shooter/blob/master/img/Captura5.png) 
+![Preview](https://github.com/AcroSenpai/Space-Shooter/blob/master/img/Captura5.PNG) 
 
 Y al morir se te mostrara la puntuacion de la partida y la maxima puntuacion.
 
